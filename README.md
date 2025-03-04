@@ -4,12 +4,16 @@ In today's competitive business environment, organizations face significant chal
 
 In this guide, we'll develop a predictive machine learning model to estimate the likelihood of employee retention in the face of attrition. By taking a predictive approach, we aim to identify the key factors influencing attrition and offer actionable insights to improve employee retention.
 
-## **Guide Objectives**
+## **Objectives**
 
 ✅ Unravel factors influencing employee dynamics, - including retention, performance, and attrition.
+
 ✅ Build a machine learning model to predict employee attrition using relevant features.
+
 ✅ Apply techniques like SMOTE and weighted distributions to manage imbalanced datasets effectively.
+
 ✅ Use GridSearchCV to fine-tune hyperparameters and enhance model performance.
+
 ✅ Compare the base model's performance with Decision Trees, Logistic Regression, and Gradient Boosting.
 
 
